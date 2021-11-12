@@ -1,6 +1,6 @@
 # KhanhTruong-Portfolio-Updated
 
-Deployed Application:https://github.com/leeyoungk/Update-Portfolio-Page-1 
+Deployed Application:https://leeyoungk.github.io/Update-Portfolio-Page-1/
 
 
 ## Description
@@ -15,7 +15,7 @@ And then, i linked my contaction informations to the application.
 ## Usage
 
 This is my updated  web application.
-![Portfolio Page (1)](https://user-images.githubusercontent.com/82126894/139791472-9a510a15-e235-4974-b935-82dd8df4c491.png)
+![Portfolio Page (3)](https://user-images.githubusercontent.com/82126894/141429930-db9a6ffa-537e-4c5c-b152-16be098e441e.png)
 ## Credits
 
 
